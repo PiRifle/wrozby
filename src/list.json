@@ -1,0 +1,50 @@
+{
+    "common": [
+        "Wzruszy cię jakieś wydarzenie",
+        "zbliża się ciekawy wyjazd",
+        "Ktoś może Cię zaskoczyć",
+        "Wyciągniesz cenne wnioski z ostatnich wydarzeń",
+        "Dojdziesz z kimś do porozumienia",
+        "Niebawem zyskasz nowego przyjaciela",
+        "Wkrótce możesz się pogodzić ze swoim wrogiem",
+        "Zwracaj większą uwagę na wypowiadane przez Ciebie słowa",
+        "Szczęście, którego szukasz jest, w drugiej wróżbie",
+        ".Okazja, która wydaje się być interesująca,w rzeczywistości wcale taka być nie musi",
+        "Przyjmij nadchodzącą zmianę – nie walcz z nią",
+        "UWAGA! Ktoś Cię obserwuje! 🙂",
+        "Ktoś z Twoich bliskich oczekuje od Ciebie wsparcia. Rozejrzyj się wokół",
+        "Nauczyciel o nazwisku na M ma cię na czarnej liście",
+        "Wysoki blondyn z twojej klasy coś ukrywa…",
+        "Uśmiechnij się do nieznajomego, a zobaczysz, co się stanie",
+        "Dziewczyna z ostatniej ławki nie życzy ci najlepiej",
+        "Ktoś, kogo imię zaczyna się na literę P, bacznie cię obserwuje",
+        "Osoba najbliżej twojej prawej strony jest ci życzliwa",
+        "Pojedziesz na najlepszą wycieczkę klasową w nowym roku",
+        "załóż czapkę, inaczej spędzisz 2 tygodnie w łóżku"
+    ],
+    "rare": [
+        "Jeśli 3 razy kucniesz i 5 razy obrócisz się dookoła – twoja miłość będzie spełniona",
+        "Podskocz 3 razy, a jutro wydarzy się coś czego się nie spodziewasz",
+        "Lepiej uważaj na następnej matmie, jeśli zależy ci na zdaniu w tym roku",
+        "Wydasz cały swój majątek w Biedronce",
+        "Unikaj Boltów przez następne trzy dni jeśli ci życie miłe",
+        "Legendy mówią, że jutro będzie papier w szkolnej łazience",
+        "Pewien hot logistyk na na ciebie oko;)",
+        "Zachowaj ostrożność szkolnych na schodach!",
+        "Uważaj na siebie w sylwestrową noc, bąbelek może pojawić się nie tylko w szampanie",
+        " Unikaj kontuzji. Nie strać szansy na Mundial!",
+        "Nie zignoruj hasła, które znajdziesz pod następnym kapslem!"
+    ],
+    "epic": [
+        "Wydaje mi się że nie zamknąłeś domu jak wychodziłeś",
+        "Hej! Za niedługo kartkówka z matematyki",
+        "Na szkolnych kamerach z dworu widać podejrzany dym z twoich ust",
+        "Pamiętaj że dzisiaj kontrola plecaków w poszukiwaniu nielegalnych rzeczy!",
+        "Trójka osób z Legnicy zna twój adres, z tego ci mi wiadomo już są w drodze",
+        "Widziałem fajny filmik z imprezy z twoim udziałem, nieźle się bawiliście",
+        "Piotr Czirnia pozdrawia <3"
+    ],
+    "legendary": [
+        "GRATULACJE! WYGRAŁEŚ LIMITOWANĄ EDYCJĘ BRELOKA!"
+    ]
+}

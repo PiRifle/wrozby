@@ -1,0 +1,85 @@
+body {
+  transition: all 1000ms ease;
+  margin: 0px;
+  padding: 0px;
+  background: linear-gradient(180deg,  rgb(0, 0, 0), rgb(21, 21, 21));
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+  display: block;
+}
+
+.title{
+  color: white;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: 700;
+  font-size: 100px;
+}
+
+.bg{
+  opacity: 1;
+  position:absolute;
+  top:0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  z-index: -3;
+  transition: all 500ms;
+  background: linear-gradient(180deg,  rgb(0, 0, 0), rgb(21, 21, 21));
+}
+
+.lottery{
+  border-radius: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  transition: all 200ms ease-in;
+  padding: 40px 70px;
+  font-weight: 900;
+  font-size: 100px;
+  opacity: 1;
+  background: linear-gradient(90deg, rgb(37, 37, 37), rgb(57, 57, 57));
+}
+
+.lotteryfocus{
+  pointer-events: none;
+  font-size: 150px;
+  opacity: 0;
+}
+
+.text{
+  text-align: center;
+  width: 90%;
+  transition: all 500ms ease;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 70px;
+}
+.textChance{
+  text-align: center;
+  width: 90%;
+  transition: all 500ms ease;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+}
+
+.hidden{
+  opacity: 0;
+}
